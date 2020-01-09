@@ -18,4 +18,4 @@ function dec(n) {
   n--
   return n
 }
-parseInt(n, 10)
+makeInt(n, 10)
