@@ -18,6 +18,9 @@ function dec(n) {
   n--
   return n
 }
-function makeInt(n, 10) {
+function makeInt(n) {
+  return n
+}
+function preserveDecimal(n) {
   return n
 }
