@@ -18,5 +18,6 @@ function dec(n) {
   n--
   return n
 }
-makeInt(n, 10);
-preserveDecimal(n)
+function makeInt(n, 10) {
+  return parseInt(n, 10)
+}
