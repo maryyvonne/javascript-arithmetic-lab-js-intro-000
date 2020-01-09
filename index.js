@@ -14,3 +14,10 @@ function inc(n) {
   n++
   return n
 }
+function dec(n) {
+  n-- 
+  return n 
+}
+function makeInt(n,10) {
+  return n
+}
