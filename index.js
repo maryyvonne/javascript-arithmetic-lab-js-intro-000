@@ -18,6 +18,6 @@ function dec(n) {
   n--
   return n
 }
-function parseInt(n, 10) {
+parseInt(n, 10) {
   return n
 }
