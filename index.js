@@ -15,8 +15,8 @@ function inc(n) {
   return n
 }
 function dec(n) {
-  n-- 
-  return n 
+  n--
+  return n
 }
 function makeInt(n,10) {
   return n
